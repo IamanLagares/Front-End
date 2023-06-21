@@ -14,7 +14,7 @@ Além disso, a escolha do tema explicativo sobre o front-end me permitirá explo
 
 Por fim, quero agradecer a todos que me apoiam nessa jornada. Estou empolgado para embarcar nesse projeto e compartilhar meu conhecimento com a comunidade. Espero que esse projeto inspire outras pessoas a se aventurarem no mundo do desenvolvimento front-end e a descobrirem a incrível jornada de criar interfaces impactantes e funcionais.
 
-Vamos juntos nessa jornada!
+
 Atenciosamente,
 Iaman Lagares.
 
